@@ -21,3 +21,8 @@ Git tag -a (Nombre etiqueta) codigo commit Sirve para etiquetar los commits a vo
 git push origin main sirve para subir archivos locales al repositorio
 git remote add origin https://github.com/INTP-5w4/Im_INTP_5w4.git sirve para vincular un repositorio.
 Git pull Sirve para descargar archivos en linea
+
+En el video aprendí mucho sobre Git, y su manejo de versiones, la verdad todavía no termino de 
+entender como funciona, pero estas son todas las funciones que pude recuperar de lo aprendido en los
+videos, de manera que creo que aprendí mucho de lo que se exponía, aunque si me gustaría
+repasar más, principalmente sobr eel checkout 
